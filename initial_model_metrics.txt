@@ -1,0 +1,32 @@
+--- Avaliação do Modelo Inicial com Validação Cruzada ---
+Fold 1:
+  Acurácia: 0.8308
+  Precisão: 0.8100
+  Recall: 0.9643
+  F1-Score: 0.8804
+Fold 2:
+  Acurácia: 0.7364
+  Precisão: 0.7634
+  Recall: 0.8554
+  F1-Score: 0.8068
+Fold 3:
+  Acurácia: 0.7829
+  Precisão: 0.8022
+  Recall: 0.8795
+  F1-Score: 0.8391
+Fold 4:
+  Acurácia: 0.7752
+  Precisão: 0.7619
+  Recall: 0.9524
+  F1-Score: 0.8466
+Fold 5:
+  Acurácia: 0.8062
+  Precisão: 0.8105
+  Recall: 0.9167
+  F1-Score: 0.8603
+
+--- Métricas Médias da Validação Cruzada ---
+Acurácia Média: 0.7863
+Precisão Média: 0.7896
+Recall Médio: 0.9137
+F1-Score Médio: 0.8466
